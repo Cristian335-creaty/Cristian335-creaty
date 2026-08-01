@@ -22,4 +22,6 @@ university-student-management-system: aplicacion ASP.NET Core MVC para la gestio
 
 ## Contacto
 
-Agrega aqui tu correo y/o tu perfil de LinkedIn para que los reclutadores puedan contactarte.
+gilcarocristianfernando@gmail.com 
+www.linkedin.com/in/cristian-fernando-gil-caro-286405223
+
