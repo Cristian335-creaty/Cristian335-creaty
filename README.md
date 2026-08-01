@@ -16,7 +16,7 @@ university-student-management-system: aplicacion ASP.NET Core MVC para la gestio
 
 rag-chatbot-fastapi: chatbot con arquitectura RAG (busqueda semantica + generacion de respuestas) construido con FastAPI y Sentence Transformers.
 
-inventory-sales-rest-api: API REST en Node.js y Express para la gestion de inventario y ventas, con Sequelize para el acceso a base de datos.
+everwood-faq-cloud-platform: plataforma cloud desplegada en Firebase Hosting para cargar y gestionar archivos de conversaciones historicas, con generacion automatica de preguntas frecuentes y reglas de seguridad de Firestore documentadas.
 
 call-transcription-api: API en Python que transcribe llamadas de audio con Whisper y permite buscar por contenido y tono dentro de las transcripciones.
 
